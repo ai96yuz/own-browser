@@ -1,4 +1,6 @@
 # This is a test own browser
+# This code need to solve issue with ModuleNotFoundError. No module named 'PyQt5.QtWebEngineWidgets'.
+# It will be fixed in near future.
 
 import sys
 from PyQt5.QtCore import *
